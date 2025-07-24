@@ -10,7 +10,7 @@
 
 ## Preview
 
-![chatbot-2](https://github.com/hegdepavankumar/Basic-Chatbot-using-HTML-CSS-and-JavaScript/assets/85627085/54b7bff0-cd2a-43b6-b29f-2303874d1474)
+![chatbot-2](https://Chatbot-using-HTML-CSS-and-JavaScript/assets/85627085/54b7bff0-cd2a-43b6-b29f-2303874d1474)
 
 
 <br>
@@ -39,9 +39,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Creator [🔝]
 
-(https://github.com/hegdepavankumar). This Project is Created by:-
-
-| [<img src="https://github.com/hegdepavankumar.png?size=115" width="115"><br><sub>https://github.com/Nvinod18</sub>](https://github.com/hegdepavankumar) |
 
 
 <br>
@@ -51,7 +48,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
  <!-- Support Me --> 
 
- 
-if you like what I do, maybe consider buying me a coffee🥺👉👈
 
 <a href="https://www.buymeacoffee.com/hegdepavankumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
