@@ -41,7 +41,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 (https://github.com/hegdepavankumar). This Project is Created by:-
 
-| [<img src="https://github.com/hegdepavankumar.png?size=115" width="115"><br><sub>@hegdepavankumar</sub>](https://github.com/hegdepavankumar) |
+| [<img src="https://github.com/hegdepavankumar.png?size=115" width="115"><br><sub>https://github.com/Nvinod18</sub>](https://github.com/hegdepavankumar) |
 
 
 <br>
